@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hi there,<br>I am Ersan,<br>Frontend Developer
+<img src="./animation_500_kd7ngokt.gif" alt="react-native" width="20%" height="20%" align="right">
 
 
 ## 🌐 Socials:
