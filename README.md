@@ -37,8 +37,7 @@
 [Form/Formik](https://react-formik-formex.netlify.app/)| React, Formik, Yup |![Form-Formik](https://user-images.githubusercontent.com/120705243/231278641-4aa69a12-23b1-42e0-8371-26cde3557e1a.gif)    
 [Todos App](https://todolistt-with-react.netlify.app/)| React |![Todos](https://user-images.githubusercontent.com/120705243/231278673-6e30aa73-4510-4a95-8b0a-d2253ce4d7cc.gif)
 [Grocery List App](https://groceryy-listtt.netlify.app/)| JavaScript |![Grocery List](https://user-images.githubusercontent.com/120705243/231285903-725395d6-12f8-4fb7-ada1-510d6d5952c8.gif)
-
-
+[Soft Scroll Page](https://scroll-page-vanilla.netlify.app/)| JavaScript |![scrollpage](https://user-images.githubusercontent.com/120705243/231287770-9b7d96a3-ad88-49f9-8ca7-27c7768910cc.gif)
 
 
 
