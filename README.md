@@ -6,14 +6,14 @@
 <font color="pink"> 👨‍💻 Currently, I am focusing on Redux 🚀 </font>
 <img src="./animation_500_kd7ngokt.gif" alt="react-native" width="20%" height="20%" align="right">
 
-</br>
-</br>
+<br/>
+<br/>
 
 ## 🌐 Contact  me :
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ersandkc/) 
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:edikici55@gmail.com)
-</br>
-</br>
+<br/>
+<br/>
 
 # 🚀 Skills
 <div>
