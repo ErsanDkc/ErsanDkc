@@ -29,7 +29,7 @@
 ## My projects
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[Grocery List App](https://groceryy-listtt.netlify.app/)| React, React Redux, Material UI, Formik, Yup, Persist |![grocery]([https://user-images.githubusercontent.com/120705243/231189394-e63f1abb-5a90-4667-98c0-707dcd0f8798.gif](https://user-images.githubusercontent.com/120705243/231278539-73499307-2b45-4cac-b881-126fc6ca4b8d.gif))
+[Grocery List App](https://groceryy-listtt.netlify.app/)| React, React Redux, Material UI, Formik, Yup, Persist |![grocery]([https://user-images.githubusercontent.com/120705243/231189394-e63f1abb-5a90-4667-98c0-707dcd0f8798.gif](https://user-images.githubusercontent.com/120705243/231278539-73499307-2b45-4cac-b881-126fc6ca4b8d.gif)
 
 ![Form-Formik](https://user-images.githubusercontent.com/120705243/231278641-4aa69a12-23b1-42e0-8371-26cde3557e1a.gif)
 ![Yeni-video](https://user-images.githubusercontent.com/120705243/231279763-6e185490-205d-4c15-a01a-2dd20ff6698a.gif)
