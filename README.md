@@ -1,11 +1,15 @@
 # 💫 About Me:
-Hi there,<br>I am Ersan,<br>Frontend Developer
+##   🏻‍  🙇‍♂️👋🏻 Hi there, I am Ersan,<br>
+<font color="pink"> ⚙️🔩 I'm Frontend Developer👨‍💻 </font> <br/>
+<font color="pink"> 🧐 My developer career started in December 2022, and it goes on🚀 </font>
+<br>
+<font color="pink"> 👨‍💻 Currently, I am focusing on Redux 🚀 </font>
 <img src="./animation_500_kd7ngokt.gif" alt="react-native" width="20%" height="20%" align="right">
 
-
-## 🌐 Socials:
+![](https://komarev.com/ghpvc/?username=ErsanDkc&color=red&style=for-the-badge)
+## 🌐 Contact  me via :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ersandkc/) 
-
+[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:edikici55@gmail.com)
 
 # 🚀 Skills
 
