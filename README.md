@@ -29,8 +29,16 @@
 ## My projects
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[Grocery List App](https://groceryy-listtt.netlify.app/)| React, React Redux, Material UI, Formik, Yup, Persist |![grocery](https://user-images.githubusercontent.com/120705243/231189394-e63f1abb-5a90-4667-98c0-707dcd0f8798.gif)
+[Grocery List App](https://groceryy-listtt.netlify.app/)| React, React Redux, Material UI, Formik, Yup, Persist |![grocery]([https://user-images.githubusercontent.com/120705243/231189394-e63f1abb-5a90-4667-98c0-707dcd0f8798.gif](https://user-images.githubusercontent.com/120705243/231278539-73499307-2b45-4cac-b881-126fc6ca4b8d.gif))
+
+![Form-Formik](https://user-images.githubusercontent.com/120705243/231278641-4aa69a12-23b1-42e0-8371-26cde3557e1a.gif)
+![Yeni-video](https://user-images.githubusercontent.com/120705243/231279763-6e185490-205d-4c15-a01a-2dd20ff6698a.gif)
+![asiaKitchennnn](https://user-images.githubusercontent.com/120705243/231280625-90f86d78-e9dd-4503-9b57-e49d1aacd585.gif)
+![ecommercess](https://user-images.githubusercontent.com/120705243/231282596-93de87a7-737f-4345-b360-131e7ee35077.gif)
 
 
+![Todos](https://user-images.githubusercontent.com/120705243/231278673-6e30aa73-4510-4a95-8b0a-d2253ce4d7cc.gif)
+![Contacts](https://user-images.githubusercontent.com/120705243/231278691-bf17b640-4ce7-4f9f-a212-ee2f4bccb19f.gif)
 
+![weatherApp](https://user-images.githubusercontent.com/120705243/231279978-32cbaf0f-c426-41a4-b480-bda5726d1193.gif)
 
