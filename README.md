@@ -21,7 +21,7 @@
 <a href="#" target="_blank"> <img src="https://www.svgrepo.com/show/349375/github.svg" alt="gitHub" height="50"/> </a> 
 <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="vs-code" height="50"/> </a> 
 <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" height="40"/> </a>
-<a href="#" target="_blank"> <img src="https://www.svgrepo.com/show/354354/slack-icon.svg"     <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" height="5"/> </a>
+ <a href="#" target="_blank"> <img src="https://www.svgrepo.com/show/354354/slack-icon.svg" /></a>
 
   
 
