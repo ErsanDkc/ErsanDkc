@@ -3,7 +3,7 @@
 <font color="pink"> ⚙️ I'm Frontend Developer💻 </font> <br/>
 <font color="pink"> 🧐 My developer career started in December 2022, and it goes on🚀 </font>
 <br>
-<font color="pink"> 👨‍💻 Currently, I am focusing on Redux 🚀 </font>
+<font color="pink"> 👨‍💻 Currently, I am focusing on Typescript 🚀 </font>
 <img src="./animation_500_kd7ngokt.gif" alt="react-native" width="20%" height="20%" align="right">
 
 <br/>
