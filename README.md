@@ -30,7 +30,7 @@
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
 [Ecommerce App](https://github.com/ErsanDkc/eCommerceSite-REACT)| React, Context, React Query, React Router, Ant-d ,Chakra UI, Formik, Yup, Node JS, Mongo Db  |![ecommercess](https://user-images.githubusercontent.com/120705243/231282596-93de87a7-737f-4345-b360-131e7ee35077.gif)
-[Blog App](https://github.com/ErsanDkc/blogApp-Tailwind)| React,Tailwind Css, Formik, Yup, Node JS, Mongo Db  |![blogApp](https://user-images.githubusercontent.com/120705243/234013991-da69d132-6ad2-45da-a8ef-80e1daca5d60.gif)
+[Blog App](https://github.com/ErsanDkc/blogApp-Tailwind)| React,React Router,Tailwind Css, Formik, Yup, Node JS, Mongo Db  |![blogApp](https://user-images.githubusercontent.com/120705243/234013991-da69d132-6ad2-45da-a8ef-80e1daca5d60.gif)
 [Contacts App](https://contacts-redux.netlify.app/)| React, React Redux,React Router, EntityAdapter |![Contacts](https://user-images.githubusercontent.com/120705243/231278691-bf17b640-4ce7-4f9f-a212-ee2f4bccb19f.gif)
 [Spend Money(Bill Gates)](https://spend-bill-money.netlify.app/)| React, React Redux |![Yeni-video](https://user-images.githubusercontent.com/120705243/231279763-6e185490-205d-4c15-a01a-2dd20ff6698a.gif)
 [Weather App](https://weather-appfirst-react.netlify.app/)| React, API, Context |![weatherApp](https://user-images.githubusercontent.com/120705243/231279978-32cbaf0f-c426-41a4-b480-bda5726d1193.gif)
